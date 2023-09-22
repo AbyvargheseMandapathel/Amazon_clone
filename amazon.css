@@ -208,3 +208,20 @@ span {
 .box-content p {
     color: #007185;
 }
+
+footer {
+    margin: 15px;
+}
+
+.foot-panel1 {
+    background-color: #37475A;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font: 0.5rem;
+    
+}
+
